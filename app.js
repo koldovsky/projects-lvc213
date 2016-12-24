@@ -142,15 +142,15 @@ app.service('studentService', ['$q', function ($q) {
         },
         {
             "name": "Anna Petronchak",
-            "websiteUrl": "https://annapetronchak.github.io/cvproject/",
-            "codeSourceUrl": "https://github.com/annapetronchak/cvproject",
+            "websiteUrl": "https://annapetronchak.github.io/cvproject-2/",
+            "codeSourceUrl": "https://github.com/annapetronchak/cvproject-2",
             "cvUrl": "https://www.dropbox.com/s/85148ifg4ovima1/cv_annapetronchak.pdf?dl=0",
             "photo": "images/students/petronchak.jpg"
         },
         {
             "name": "Rostyslav Pavliv",
-            "websiteUrl": "",
-            "codeSourceUrl": "",
+            "websiteUrl": "https://rpavliv.github.io/project1/",
+            "codeSourceUrl": "https://github.com/rpavliv/project1",
             "cvUrl": "",
             "photo": "images/students/pavliv.jpg"
         },
